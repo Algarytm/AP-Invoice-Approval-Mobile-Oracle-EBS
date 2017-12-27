@@ -15,6 +15,7 @@ AP Accountants/approvers can see the AP Invoices on their mobile device at a hea
 <li>Streamlined business processes and efficient supply chain.</li>
 
 # SITE LISTINGS
+<img alt=ÄP Invoice approval Oracle EBS" rel="http://www.algarytm.com/wp-content/uploads/2016/09/screens_02.png"/>
 # GOOGLE PLAY STORE
 
 <a href="https://play.google.com/store/apps/details?id=com.ionicframework.apinvoice173980&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1Get it on Google Play" rel="nofollow">Download from Google Play Store</a>
